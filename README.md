@@ -6,7 +6,6 @@
 - [Pre-Install](https://github.com/ZeroNiki/Yand?tab=readme-ov-file#Pre-Install)
 - [Install](https://github.com/ZeroNiki/Yand?tab=readme-ov-file#Install)
 - [Usage](https://github.com/ZeroNiki/Yand?tab=readme-ov-file#Usage)
-- [Todo](https://github.com/ZeroNiki/Yand?tab=readme-ov-file#Todo)
 
 ## About
 
